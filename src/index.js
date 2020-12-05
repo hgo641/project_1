@@ -4,6 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+/*
+function App(){
+  return(
+    <div>router</div>
+  )
+}
+*/
 ReactDOM.render(
   <React.StrictMode>
     <App />
